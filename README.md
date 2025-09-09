@@ -23,7 +23,7 @@
 |       | `git config --global color.ui auto` | set automatic command line coloring for Git for easy reviewing |
 |       | `git init` | initialize an existing directory as a Git repository|
 |       | `git clone`| retrieve an entire repository from a hosted location via URL |
-
+| Stage & Snapshot | `git status` | show modified files in working directory, staged for your next commit |
 
 
 
