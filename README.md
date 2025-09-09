@@ -26,7 +26,8 @@
 | Stage & Snapshot | `git status` | show modified files in working directory, staged for your next commit |
 |       | `git add`| add a file as it looks now to your next commit (stage) |
 |       | `git reset` | unstage a file while retaining the changes in working directory |
-
+|       | `git diff` | difference between what is changed but not staged |
+|       | `git diff --staged` | difference between what is staged but not yet committed |
 
 
 
