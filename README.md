@@ -18,9 +18,9 @@
 # **Git Command Cheat Sheet**
 | Category | Command | Description |
 |----------|---------|-------------|
-| Setup | `git config --global.<br>user.name "firstname lastname"` | set a name that is identifiable for credit when review version history |
-|       | `git config --global.<br>user.email "valid-email"` | set an email address that will be associated with each histroy marker |
-|       | `git config --global.<br>color.ui auto` | set automatic command line coloring for Git for easy reviewing |
+| Setup | `git config --global`.<br>`user.name "firstname lastname"` | set a name that is identifiable for credit when review version history |
+|       | `git config --global`.<br>`user.email "valid-email"` | set an email address that will be associated with each histroy marker |
+|       | `git config --global`.<br>`color.ui auto` | set automatic command line coloring for Git for easy reviewing |
 
 
 
