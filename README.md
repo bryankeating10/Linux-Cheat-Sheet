@@ -30,6 +30,7 @@
 |       | `git diff --staged` | difference between what is staged but not yet committed |
 |       | `git commit -m "Message"` | commit your staged content as a new commit snapshot |
 | Branch & Merge | `git branch` | list your branches. an * will appear next to your currently active branch |
+|       | `git merge [branch] | merge the specified branch's history into the current one |
 
 
 
