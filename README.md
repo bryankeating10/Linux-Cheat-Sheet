@@ -24,6 +24,7 @@
 |       | `git init` | initialize an existing directory as a Git repository|
 |       | `git clone`| retrieve an entire repository from a hosted location via URL |
 | Stage & Snapshot | `git status` | show modified files in working directory, staged for your next commit |
+|       | `git add`| add a file as it looks now to your next commit (stage) |
 
 
 
