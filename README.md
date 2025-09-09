@@ -32,6 +32,7 @@
 | Branch & Merge | `git branch` | list your branches. an * will appear next to your currently active branch |
 |       | `git merge [branch]` | merge the specified branch's history into the current one |
 |       | `git log` | show all commits in the current branch's history |
+| Share & Update | `git remote add [alias] [url]` | add a git URL as an alias |
 
 
 
