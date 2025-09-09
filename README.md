@@ -35,9 +35,4 @@
 | Share & Update | `git remote add [alias] [url]` | add a git URL as an alias |
 |       | `git fetch [alias]` | fetch down all the branches from that git remote |
 |       | `git push [alias] [branch]` | transmit local branch commits to the remote repository branch |
-
-
-
-
-
-
+|       | `git pull` | fetch and merge any commits from the tracking remote branch |
