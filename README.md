@@ -28,7 +28,7 @@
 |       | `git reset` | unstage a file while retaining the changes in working directory |
 |       | `git diff` | difference between what is changed but not staged |
 |       | `git diff --staged` | difference between what is staged but not yet committed |
-
+|       | `git commit -m "Message"` | commit your staged content as a new commit snapshot |
 
 
 
